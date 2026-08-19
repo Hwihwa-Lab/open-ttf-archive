@@ -1,36 +1,126 @@
 {
   "korean": [
-    { "name": "Cafe24 Ssurround", "file": "Cafe24Ssurround.ttf" },
-    { "name": "CookieRun Black", "file": "CookieRun-Black.ttf" },
-    { "name": "BM Jua", "file": "BMJUA.ttf" },
-    { "name": "Yanolja Yache", "file": "YanoljaYache.ttf" },
-    { "name": "Binggrae Bold", "file": "Binggrae-Bold.ttf" },
-    { "name": "Gmarket Sans Bold", "file": "GmarketSansBold.ttf" },
-    { "name": "Black Han Sans", "file": "BlackHanSans-Regular.ttf" },
-    { "name": "S-Core Dream 9", "file": "SCDream9.ttf" },
-    { "name": "Nexon Bazzi", "file": "Bazzi.ttf" },
-    { "name": "Ridi Batang", "file": "RIDIBatang.ttf" },
-    { "name": "Sangju Gotgam", "file": "SangjuGotgam.ttf" },
-    { "name": "KCC Eunyoung", "file": "KCCEunyoung.ttf" },
-    { "name": "Gangwon Edu Modu Bold", "file": "GangwonEduModu-Bold.ttf" },
-    { "name": "Cafe24 Danjunghae", "file": "Cafe24Danjunghae.ttf" },
-    { "name": "Chilgok Halmae", "file": "ChilgokHalmae.ttf" }
+    {
+      "name": "Cafe24 Ssurround",
+      "file": "Cafe24Ssurround.ttf"
+    },
+    {
+      "name": "CookieRun Black",
+      "file": "CookieRun-Black.ttf"
+    },
+    {
+      "name": "BM Jua",
+      "file": "BMJUA.ttf"
+    },
+    {
+      "name": "Yanolja Yache",
+      "file": "YanoljaYache.ttf"
+    },
+    {
+      "name": "Binggrae Bold",
+      "file": "Binggrae-Bold.ttf"
+    },
+    {
+      "name": "Gmarket Sans Bold",
+      "file": "GmarketSansBold.ttf"
+    },
+    {
+      "name": "Black Han Sans",
+      "file": "BlackHanSans-Regular.ttf"
+    },
+    {
+      "name": "S-Core Dream 9",
+      "file": "SCDream9.ttf"
+    },
+    {
+      "name": "Nexon Bazzi",
+      "file": "Bazzi.ttf"
+    },
+    {
+      "name": "Ridi Batang",
+      "file": "RIDIBatang.ttf"
+    },
+    {
+      "name": "Sangju Gotgam",
+      "file": "SangjuGotgam.ttf"
+    },
+    {
+      "name": "KCC Eunyoung",
+      "file": "KCCEunyoung.ttf"
+    },
+    {
+      "name": "Gangwon Edu Modu Bold",
+      "file": "GangwonEduModu-Bold.ttf"
+    },
+    {
+      "name": "Cafe24 Danjunghae",
+      "file": "Cafe24Danjunghae.ttf"
+    },
+    {
+      "name": "Chilgok Halmae",
+      "file": "ChilgokHalmae.ttf"
+    }
   ],
   "english": [
-    { "name": "Pacifico", "file": "Pacifico-Regular.ttf" },
-    { "name": "Lobster", "file": "Lobster-Regular.ttf" },
-    { "name": "Yellowtail", "file": "Yellowtail-Regular.ttf" },
-    { "name": "Great Vibes", "file": "GreatVibes-Regular.ttf" },
-    { "name": "Titan One", "file": "TitanOne-Regular.ttf" },
-    { "name": "Fredoka One", "file": "FredokaOne-Regular.ttf" },
-    { "name": "Bebas Neue", "file": "BebasNeue-Regular.ttf" },
-    { "name": "Luckiest Guy", "file": "LuckiestGuy-Regular.ttf" },
-    { "name": "Chewy", "file": "Chewy-Regular.ttf" },
-    { "name": "Cookie", "file": "Cookie-Regular.ttf" },
-    { "name": "Abril Fatface", "file": "AbrilFatface-Regular.ttf" },
-    { "name": "Permanent Marker", "file": "PermanentMarker-Regular.ttf" },
-    { "name": "Shrikhand", "file": "Shrikhand-Regular.ttf" },
-    { "name": "Oleo Script", "file": "OleoScript-Regular.ttf" },
-    { "name": "Playfair Display Black", "file": "PlayfairDisplay-Black.ttf" }
+    {
+      "name": "Pacifico",
+      "file": "Pacifico-Regular.ttf"
+    },
+    {
+      "name": "Lobster",
+      "file": "Lobster-Regular.ttf"
+    },
+    {
+      "name": "Yellowtail",
+      "file": "Yellowtail-Regular.ttf"
+    },
+    {
+      "name": "Great Vibes",
+      "file": "GreatVibes-Regular.ttf"
+    },
+    {
+      "name": "Titan One",
+      "file": "TitanOne-Regular.ttf"
+    },
+    {
+      "name": "Fredoka One",
+      "file": "FredokaOne-Regular.ttf"
+    },
+    {
+      "name": "Bebas Neue",
+      "file": "BebasNeue-Regular.ttf"
+    },
+    {
+      "name": "Luckiest Guy",
+      "file": "LuckiestGuy-Regular.ttf"
+    },
+    {
+      "name": "Chewy",
+      "file": "Chewy-Regular.ttf"
+    },
+    {
+      "name": "Cookie",
+      "file": "Cookie-Regular.ttf"
+    },
+    {
+      "name": "Abril Fatface",
+      "file": "AbrilFatface-Regular.ttf"
+    },
+    {
+      "name": "Permanent Marker",
+      "file": "PermanentMarker-Regular.ttf"
+    },
+    {
+      "name": "Shrikhand",
+      "file": "Shrikhand-Regular.ttf"
+    },
+    {
+      "name": "Oleo Script",
+      "file": "OleoScript-Regular.ttf"
+    },
+    {
+      "name": "Playfair Display Black",
+      "file": "PlayfairDisplay-Black.ttf"
+    }
   ]
 }
